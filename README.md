@@ -1,15 +1,10 @@
 # Shabnaz_Portfolio
 
+Hello, i'm Shabnaz Rahman;
+Currently completing my Level 3 Data Technician Bootcamp.
 
-Bold	**bold text**
-Blockquote	> blockquote
-Ordered List	1. Excel Portolio : https://b2wcompletetraining057-my.sharepoint.com/:w:/g/personal/shabnazrahman_bootcamp_justit_co_uk/IQBuWFyi596sRI6jfEUCKy59AfUxerKwpBzXczIJzenYT2k?e=Atpl0i
--
+1. Excel Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQDaX3NEsJFtRKZu7Qgb3JsWAU2Az4SQ7NO-QPX4kH-aZ8Q?e=uVFqvn 
 
-3. Third item
-Unordered List	- First item
-- Second item
-- Third item
 Code	`code`
 Horizontal Rule	---
 Link	[Excel Portfolio](https://b2wcompletetraining057-my.sharepoint.com/:w:/g/personal/shabnazrahman_bootcamp_justit_co_uk/IQBuWFyi596sRI6jfEUCKy59AfUxerKwpBzXczIJzenYT2k?e=DeJH05)
