@@ -3,14 +3,10 @@
 Hello, i'm Shabnaz Rahman;
 Currently completing my Level 3 Data Technician Bootcamp.
 
-1. Excel Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQDaX3NEsJFtRKZu7Qgb3JsWAU2Az4SQ7NO-QPX4kH-aZ8Q?e=uVFqvn
-2. 
+1. Excel Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQDaX3NEsJFtRKZu7Qgb3JsWAU2Az4SQ7NO-QPX4kH-aZ8Q?e=uVFqvn)
+2. Database Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQBEp-XPVL9GRq1OSIfOvGw_AUYvsCiXbhupDkv-ZD96B3k?e=jV8cch)
+3. Python Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQD6jISH6JrERLwzMtCvvdnrAXDHruxiPkT7E6XYT6R0rO8?e=mX0Dhu)
 
-Code	`code`
-Horizontal Rule	---
-Link	[Excel Portfolio](https://b2wcompletetraining057-my.sharepoint.com/:w:/g/personal/shabnazrahman_bootcamp_justit_co_uk/IQBuWFyi596sRI6jfEUCKy59AfUxerKwpBzXczIJzenYT2k?e=DeJH05)
-Link	[title](https://www.example.com)
-Link	[title](https://www.example.com)
 
 
 Data Technician
