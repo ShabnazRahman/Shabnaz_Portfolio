@@ -6,7 +6,7 @@ Turning raw data into actionable insights using SQL, Python and Tableau.
 
 1. Excel Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQDaX3NEsJFtRKZu7Qgb3JsWAU2Az4SQ7NO-QPX4kH-aZ8Q?e=uVFqvn) - Got raw data then got results and used filters to drill down on specific topics.
 2. Database Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQBEp-XPVL9GRq1OSIfOvGw_AUYvsCiXbhupDkv-ZD96B3k?e=jV8cch)
-3. Python Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQD6jISH6JrERLwzMtCvvdnrAXDHruxiPkT7E6XYT6R0rO8?e=mX0Dhu) - I imported raw data using the format .csv files then use the data to create data results and visualisations. 
+3. Python Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQD6jISH6JrERLwzMtCvvdnrAXDHruxiPkT7E6XYT6R0rO8?e=mX0Dhu) - I imported raw data using the format .csv files then use the data to create data results and visualisations.
 
 
 
