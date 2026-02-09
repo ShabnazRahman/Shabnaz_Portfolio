@@ -10,11 +10,6 @@ Turning raw data into actionable insights using SQL, Python and Tableau.
 
 
 
-Data Technician
----------------
-
-Currently working towards a Level 3 Data Technician Bootcamp.
-
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [shabnazrahman0604@gmail.com](mailto:shabnazrahman0604@gmail.com)
 
