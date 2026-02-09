@@ -1,7 +1,8 @@
 # Shabnaz_Portfolio
 
 Hello, i'm Shabnaz Rahman;
-I am currently completing my Level 3 Data Technician Bootcamp.
+**Data Technician Apprentice | Level 3 Bootcamp @ JustIt**
+Turning raw data into actionable insights using SQL, Python and Tableau.
 
 1. Excel Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQDaX3NEsJFtRKZu7Qgb3JsWAU2Az4SQ7NO-QPX4kH-aZ8Q?e=uVFqvn)
 2. Database Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQBEp-XPVL9GRq1OSIfOvGw_AUYvsCiXbhupDkv-ZD96B3k?e=jV8cch)
