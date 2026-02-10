@@ -10,25 +10,24 @@ Turning raw data into actionable insights using SQL, Python and Tableau.
 This project illustrates my ability to clean, explore, and analyse business data using Excel.
 
 💡 Key Skills Demonstrated
-Applied UK data regulations: GDPR, Data Protection Act, and the Computer Misuse Act
-Used Excel functions like SUM, AVERAGE, and SWITCH for analysis
-Built Pivot Tables to segment data by customer age group, region, and gender
-Conducted market breakdowns and summarised performance using dynamic filtering
-Created charts and insights presentations to prepare for Power BI dashboard delivery
-Practised data storytelling and reporting for senior stakeholders
+Applied UK data regulations, including GDPR, the Data Protection Act, and the Computer Misuse Act when handling and analysing information.
+Utilised core Excel functions such as SUM, AVERAGE, and SWITCH to perform efficient data analysis.
+Built Pivot Tables to segment datasets by customer age group, region, and gender.
+Conducted market breakdowns and produced summary insights using dynamic filtering techniques.
+Created charts and insight‑driven presentations to support the development of Power BI dashboards.
 
 2. Database Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQBEp-XPVL9GRq1OSIfOvGw_AUYvsCiXbhupDkv-ZD96B3k?e=jV8cch)
 📄 Description
 This workbook demonstrates my ability to write SQL queries, understand relational data structures, and apply data modelling techniques in a business context. The tasks included interpreting data  identifying data types and entities, and writing SQL to retrieve and manipulate relevant business data. I also worked with Azure Data Studio to explore how relational databases are built, queried, and secured in the cloud.
 
 💡 Key Skills Demonstrated
-Used SQL to retrieve, filter, sort, and aggregate data
-Identified primary keys and relationships between database tables
-Explained relational database concepts: one-to-many and many-to-many relationships
-Developed entity-relationship diagrams to represent business datasets
-Applied data integrity principles such as normalization, data types, and constraints
-Explored cloud-based relational databases using Azure Data Studio
-Demonstrated data querying to support business insight and reporting
+Queried databases using SQL to efficiently retrieve, filter, sort, and aggregate data.
+Identified primary keys, foreign keys, and relationships across database tables.
+Explained core relational database concepts, including one‑to‑many and many‑to‑many relationships.
+Designed entity‑relationship (ER) diagrams to model and represent business datasets.
+Applied data integrity principles such as normalisation, appropriate data types, and the use of constraints.
+Explored and worked with cloud‑based relational databases using Azure Data Studio.
+Performed data queries to support business insights, reporting, and decision‑making.
 
 3. Python Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQD6jISH6JrERLwzMtCvvdnrAXDHruxiPkT7E6XYT6R0rO8?e=mX0Dhu)
 (https://colab.research.google.com/drive/1x0WI1v8Ehj_uCSZEmYnUL2AP-Xtx49bg?usp=sharing)- I imported raw data using the format .csv files then use the data to create data results and visualisations
