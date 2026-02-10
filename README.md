@@ -7,7 +7,7 @@ Turning raw data into actionable insights using SQL, Python and Tableau.
 1. Excel Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQDaX3NEsJFtRKZu7Qgb3JsWAU2Az4SQ7NO-QPX4kH-aZ8Q?e=uVFqvn) - Got raw data then got results and used filters to drill down on specific topics.
 
 📄 Description
-This project demonstrates my ability to clean, explore, and analyse business data using Excel.
+This project illustrates my ability to clean, explore, and analyse business data using Excel.
 
 💡 Key Skills Demonstrated
 Applied UK data regulations: GDPR, Data Protection Act, and the Computer Misuse Act
@@ -19,7 +19,7 @@ Practised data storytelling and reporting for senior stakeholders
 
 2. Database Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQBEp-XPVL9GRq1OSIfOvGw_AUYvsCiXbhupDkv-ZD96B3k?e=jV8cch)
 📄 Description
-This workbook demonstrates my ability to write SQL queries, understand relational data structures, and apply data modelling techniques in a business context. The tasks included interpreting data for a fictional ice cream company, identifying data types and entities, and writing SQL to retrieve and manipulate relevant business data. I also worked with Azure Data Studio to explore how relational databases are built, queried, and secured in the cloud.
+This workbook demonstrates my ability to write SQL queries, understand relational data structures, and apply data modelling techniques in a business context. The tasks included interpreting data  identifying data types and entities, and writing SQL to retrieve and manipulate relevant business data. I also worked with Azure Data Studio to explore how relational databases are built, queried, and secured in the cloud.
 
 💡 Key Skills Demonstrated
 Used SQL to retrieve, filter, sort, and aggregate data
@@ -49,6 +49,7 @@ Explained the role of Python in data engineering and analytics pipelines
 
 
 4. Sales Cleaning data : (https://colab.research.google.com/drive/1t6INLDtt8qmWPbotPMFq3rU0_OmN-hqz?usp=sharing)
+This is a data set where I got a raw data set and made an analysis as the outcome.
 
 
 
