@@ -30,7 +30,8 @@ Applied data integrity principles such as normalization, data types, and constra
 Explored cloud-based relational databases using Azure Data Studio
 Demonstrated data querying to support business insight and reporting
 
-3. Python Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQD6jISH6JrERLwzMtCvvdnrAXDHruxiPkT7E6XYT6R0rO8?e=mX0Dhu) - I imported raw data using the format .csv files then use the data to create data results and visualisations
+3. Python Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQD6jISH6JrERLwzMtCvvdnrAXDHruxiPkT7E6XYT6R0rO8?e=mX0Dhu)
+(https://colab.research.google.com/drive/1x0WI1v8Ehj_uCSZEmYnUL2AP-Xtx49bg?usp=sharing)- I imported raw data using the format .csv files then use the data to create data results and visualisations
 
 📄 Description
 This workbook showcases my foundational Python skills for data analysis, automation, and basic scripting. I learned to clean, edit, and visualise data using Python libraries such as Pandas and Matplotlib. The tasks also involved creating user-defined functions, handling exceptions, and applying automation techniques using loops and conditional logic — all tailored for practical business data scenarios.
