@@ -7,11 +7,11 @@ Turning raw data into actionable insights using SQL, Python and Tableau.
 1. Excel Portfolio : (https://1drv.ms/w/c/5af0de34e731787c/IQDaX3NEsJFtRKZu7Qgb3JsWAU2Az4SQ7NO-QPX4kH-aZ8Q?e=uVFqvn) - Got raw data then got results and used filters to drill down on specific topics.
 
 📄 Description
-This project demonstrates my ability to clean, explore, and analyse business data using Excel and Power BI while applying essential UK data laws. I worked with retail and bike sales datasets to extract insights, calculate metrics, and answer key business questions that inform decision-making. This included presenting findings with visuals tailored for a senior audience.
+This project demonstrates my ability to clean, explore, and analyse business data using Excel.
 
 💡 Key Skills Demonstrated
 Applied UK data regulations: GDPR, Data Protection Act, and the Computer Misuse Act
-Used Excel functions like SUM, AVERAGE, and SWITCH for KPI analysis
+Used Excel functions like SUM, AVERAGE, and SWITCH for analysis
 Built Pivot Tables to segment data by customer age group, region, and gender
 Conducted market breakdowns and summarised performance using dynamic filtering
 Created charts and insights presentations to prepare for Power BI dashboard delivery
