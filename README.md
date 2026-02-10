@@ -37,15 +37,14 @@ Demonstrated data querying to support business insight and reporting
 This workbook showcases my foundational Python skills for data analysis, automation, and basic scripting. I learned to clean, edit, and visualise data using Python libraries such as Pandas and Matplotlib. The tasks also involved creating user-defined functions, handling exceptions, and applying automation techniques using loops and conditional logic — all tailored for practical business data scenarios.
 
 💡 Key Skills Demonstrated
-Wrote Python scripts using variables, loops, conditionals, and functions
-Imported and manipulated datasets using Pandas DataFrames
-Applied NumPy for numerical operations and statistical analysis
-Created visualisations (e.g., bar charts and line graphs) using Matplotlib
-Cleaned and transformed raw data (e.g., handling null values, formatting)
-Automated repetitive tasks through for loops and conditional execution
-Practised exception handling to build more robust scripts
-Explained the role of Python in data engineering and analytics pipelines
-
+Developed Python scripts incorporating variables, loops, conditionals, and modular functions.
+Imported, cleaned, and manipulated datasets using Pandas DataFrames.
+Utilised NumPy for efficient numerical computations and statistical analysis.
+Produced clear and insightful visualisations (e.g., bar charts, line graphs) with Matplotlib.
+Performed data cleaning and transformation tasks, including handling missing values and standardising formats.
+Automated repetitive processes using loop structures and conditional logic.
+Implemented exception handling to create more reliable and fault‑tolerant scripts.
+Explained Python’s role within data engineering workflows and analytics pipelines.
 
 
 
