@@ -1,11 +1,10 @@
 # Shabnaz Rahman's Portfolio
 
 Hello, i'm Shabnaz Rahman;
-**Data Technician  | Level 3 Bootcamp @ JustIt**
+**Data Technician  | Level 3 Bootcamp @ JustIt** | Turning raw data into actionable insights using SQL, Python and Tableau.
 
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [shabnazrahman0604@gmail.com](mailto:shabnazrahman0604@gmail.com)
-Turning raw data into actionable insights using SQL, Python and Tableau.
 
 
 
