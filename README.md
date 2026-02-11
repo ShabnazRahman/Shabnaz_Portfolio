@@ -39,7 +39,6 @@ This workbook showcases my foundational Python skills for data analysis, automat
 💡 Key Skills Demonstrated
 Developed Python scripts incorporating variables, loops, conditionals, and modular functions.
 Imported, cleaned, and manipulated datasets using Pandas DataFrames.
-Utilised NumPy for efficient numerical computations and statistical analysis.
 Produced clear and insightful visualisations (e.g., bar charts, line graphs) with Matplotlib.
 Performed data cleaning and transformation tasks, including handling missing values and standardising formats.
 Automated repetitive processes using loop structures and conditional logic.
