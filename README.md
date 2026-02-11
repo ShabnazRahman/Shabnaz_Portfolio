@@ -62,6 +62,9 @@ Explained Python’s role within data engineering workflows and analytics pipeli
 4. Sales Cleaning data : (https://colab.research.google.com/drive/1t6INLDtt8qmWPbotPMFq3rU0_OmN-hqz?usp=sharing)
 This is a data set where I got a raw data set and made an analysis as the outcome.
 
+5. Covid Analysis : (https://colab.research.google.com/drive/1BG-tbfwf3kUKEwIyEyQaZfvJmoNvBl91?usp=sharing)
+
+
 
 
 
